@@ -1,0 +1,3 @@
+Considero que las APIs pueden ayudar mucho a las comunidades porque permiten compartir información de manera más organizada y rápida. A través de estas herramientas se pueden enviar reportes, alertas o solicitudes entre diferentes plataformas y usuarios de forma más eficiente.
+
+También pienso que las APIs facilitan la comunicación entre sistemas tecnológicos y ayudan a mejorar la participación ciudadana. Por ejemplo, podrían utilizarse para reportar problemas en una comunidad, enviar alertas de emergencia o compartir información importante en tiempo real. Todo esto contribuye a una mejor organización y fortalece el acceso a la información dentro de las comunidades.
