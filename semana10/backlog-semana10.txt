@@ -1,0 +1,9 @@
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+2. Como coordinador de la veeduría quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para darle seguimiento oportuno.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para verificar su estado y hacer seguimiento.
+
+4. Como administrador quiero asignar responsables a cada reporte para mejorar la organización del trabajo.
+
+5. Como ciudadano quiero conocer el estado de mi reporte para saber si ya fue revisado.
